@@ -1,1 +1,6 @@
-Replace this with your name, and include a header.
+priyanka
+# things done are as follows
+
+### learn markdown
+
+#### learn to edit a file
